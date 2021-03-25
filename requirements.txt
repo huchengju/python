@@ -21,7 +21,7 @@ PyMySQL==0.9.3
 pyotp==2.3.0
 pyparsing==2.4.0
 pytest==4.6.3
-PyYAML==5.1.2
+PyYAML==5.4
 qrcode==6.1
 redis==3.3.8
 requests==2.22.0
